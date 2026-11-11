@@ -1,0 +1,7 @@
+{
+  "name": "codex-map",
+  "version": "0.2.0",
+  "description": "A live, local map of Codex work in a pane beside the chat.",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
